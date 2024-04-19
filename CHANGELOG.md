@@ -3,7 +3,7 @@ Changelog
 Releases for CakePHP 5
 -------------
 * 12.1.0
-  * Ported new feature "Account lockout policy" applied in tag 14.1.0
+  * Ported new feature "Account lockout policy" added in tag 14.1.0
 
 * 12.0.0
   * Migrated to web-auth/webauthn-lib:^4.4
