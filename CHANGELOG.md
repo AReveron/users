@@ -2,12 +2,15 @@ Changelog
 =========
 Releases for CakePHP 5
 -------------
-* 12.0
-    * Migrated to web-auth/webauthn-lib:^4.4
-    * Migrated to robthree/twofactorauth:^2.0
-    * Removed deprecated U2F
-    * Migrated old UserShell into command classes
-    * Added documentation about commands
+* 12.1.0
+  * Ported new feature "Account lockout policy" applied in tag 14.1.0
+
+* 12.0.0
+  * Migrated to web-auth/webauthn-lib:^4.4
+  * Migrated to robthree/twofactorauth:^2.0
+  * Removed deprecated U2F
+  * Migrated old UserShell into command classes
+  * Added documentation about commands
 
 Releases for CakePHP 4.5
 ------------------------
